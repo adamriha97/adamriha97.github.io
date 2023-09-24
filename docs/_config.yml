@@ -224,3 +224,5 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-github-metadata
+
+remote_theme: kitian616/jekyll-TeXt-theme
