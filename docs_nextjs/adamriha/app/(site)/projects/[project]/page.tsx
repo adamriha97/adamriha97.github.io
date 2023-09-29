@@ -6,6 +6,9 @@ type Props = {
     params: { project: string }
 };
 
+export const revalidate = 10;
+export const dynamic = 'force-dynamic';
+
 export default async function Project({ params }: Props) {
     const slug = params.project;
     const project = await getProject(slug);

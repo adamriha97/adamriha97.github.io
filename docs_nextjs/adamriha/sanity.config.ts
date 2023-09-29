@@ -6,7 +6,7 @@ const config = defineConfig({
     projectId: "fisicxqr",
     dataset: "production",
     title: "Adam Next Web",
-    apiVersion: "2023-09-28",
+    apiVersion: "2023-09-29",
     basePath: "/admin",
     plugins: [deskTool()],
     schema: { types: schemas }
