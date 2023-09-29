@@ -2,10 +2,13 @@ import { getProjects } from "@/sanity/sanity-utils"
 import Image from "next/image";
 import Link from "next/link";
 
+export const revalidate = 10;
+export const dynamic = 'force-dynamic';
+
 export default async function Home() {
   const projects = await getProjects();
 
-  console.log(projects)
+  // console.log(projects)
 
   return (
     <div>
