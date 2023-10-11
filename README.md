@@ -19,7 +19,7 @@ Experienced and dedicated Data Analyst with several years of experience identify
 
 ## Projects
 
-* [FixMall](https://github.com/adamriha97/fixmall) - Python program for processing and modifying data provided by AAD company using the tkinter and xml.etree.ElementTree libraries.
+* [FixMall](https://github.com/adamriha97/fixmall) - Open source python program for processing and modifying data provided by AAD company using the tkinter and xml.etree.ElementTree libraries.
 * [Cinema Scraper](https://github.com/adamriha97/cinema_scraper) - Python program that scrapes data from the internet about movies currently showing in theaters, primarily using the Scrapy and Selenium libraries.
 
 ## Skills
