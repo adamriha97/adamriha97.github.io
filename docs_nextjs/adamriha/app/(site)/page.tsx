@@ -13,7 +13,7 @@ export default async function Home() {
   return (
     <div>
       <h1 className="text-7xl font-extrabold">
-        Hello there.. It's-a me{" "}
+        Hello there.. It&apos;s-a me{" "}
         <span
           className="bg-gradient-to-r from-orange-500
       via-red-600 to-purple-500 bg-clip-text text-transparent hover:animate-pulse"
